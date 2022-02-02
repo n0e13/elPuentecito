@@ -1,0 +1,31 @@
+main {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 90px 70px;
+    background-color: rgb(255, 250, 244);
+}
+section {
+    font-family: 'Space Mono', monospace;
+}
+.column {
+    column-count: 3;
+    column-gap: 30px;
+    column-rule: solid;
+}
+.column1 {
+    column-count: 2;
+    column-gap: 30px;
+    column-rule: solid;
+}
+
+.resize{
+    width: 80%;
+}
+
+.resize1{
+    width: 70%;
+}
+
+article {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
